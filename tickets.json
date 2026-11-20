@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Set up the project",
+    "body": "Clone the repository, run the project locally and write the steps in the README.",
+    "category": "Chore",
+    "level": "Associate",
+    "compulsory": true
+  },
+  {
+    "title": "Agree how the team works",
+    "body": "Agree how you will split work, review pull requests and run your meetings. Write the agreement in the README.",
+    "category": "Chore",
+    "level": "Associate",
+    "compulsory": true
+  },
+  {
+    "title": "Build a small feature",
+    "body": "Pick a small piece of the brief, build it on a branch and open a pull request that closes this ticket.",
+    "category": "Feature",
+    "level": "Associate",
+    "compulsory": false
+  },
+  {
+    "title": "Fix a bug",
+    "body": "Find a bug, write a test that shows it, fix it and open a pull request that closes this ticket.",
+    "category": "Bug",
+    "level": "Principal",
+    "compulsory": false
+  },
+  {
+    "title": "Review a teammate's pull request",
+    "body": "Review a pull request from a teammate. Leave at least one useful comment.",
+    "category": "Chore",
+    "level": "Principal",
+    "compulsory": true
+  }
+]
